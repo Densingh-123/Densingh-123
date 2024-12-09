@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Building Applications**
  
- 🌱 I’m currently learning **Angular, Flask**
+ 🌱 I’m currently learning **Angular, Flask,Flutter,React Native**
 
  💬 Ask me about **React, Next.js, GSAP, React Native , Flutter**
 
