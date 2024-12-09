@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Angular, Flask**
 
- 💬 Ask me about **React, Next.js, GSAP, React Native**
+ 💬 Ask me about **React, Next.js, GSAP, React Native , Flutter**
 
  ⚡ Fun fact **I am a Good App and Web Developer**
 </div>
@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,tailwind,mui,js,ts,nodejs,express,firebase,mongodb,java,python,flask,git,docker,aws,figma,flutter,android,reactnative" />
+    <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,tailwind,js,ts,nodejs,express,firebase,mongodb,java,python,flask,git,docker,aws,figma,flutter,android,reactnative,c,c++" />
 </div>
 
 <hr/>
