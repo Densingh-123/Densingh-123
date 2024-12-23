@@ -48,13 +48,7 @@
   <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ddensingh&show_icons=true&theme=radical&count_private=true&rank_icon=github&border_radius=10" alt="Stats" width="420"/>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddensingh&theme=radical&hide_border=true" alt="Streak Stats" width="420"/>
-</div>
 
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ddensingh&bg_color=1a1b27&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 
