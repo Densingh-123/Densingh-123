@@ -56,9 +56,7 @@
   <a href="[https://profile-dya4e3w0b-densinghs-projects.vercel.app/](https://dens-portfolio.vercel.app/)" target="_blank">
      <img src="https://img.shields.io/badge/My%20Projects-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="[https://soumyajitblogs.vercel.app/](https://dens-portfolio.vercel.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Blogs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
+
   <a href="mailto:ddensingh19@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
