@@ -46,7 +46,7 @@
 <br/>
 <div align="center">
   <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ddensingh&show_icons=true&theme=radical&count_private=true&rank_icon=github&border_radius=10" alt="Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&theme=radical&count_private=true&rank_icon=github&border_radius=10" alt="Stats" width="420"/>
 </div>
 
 <hr/>
