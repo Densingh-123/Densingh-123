@@ -12,7 +12,7 @@
   <p>🌟 Building applications to make ideas come to life!</p>
   <p>🌱 Currently exploring <strong>Angular, Flask, Flutter, and React Native</strong></p>
   <p>💬 Ask me about <strong>React, Next.js, GSAP, React Native, Flutter</strong></p>
-  <p>⚡ Fun fact: I am both a good app and web developer!</p>
+  <p>⚡ Fun fact: I am both a good app and web developer!.</p>
 </div>
 
 <br/>
