@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/densingh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://profile-dya4e3w0b-densinghs-projects.vercel.app/" target="_blank">
+  <a href="[https://profile-dya4e3w0b-densinghs-projects.vercel.app/](https://dens-portfolio.vercel.app/)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://twitter.com/densingh" target="_blank">
@@ -46,20 +46,20 @@
 <br/>
 <div align="center">
   <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ddensingh&show_icons=true&theme=radical&count_private=true&rank_icon=github&border_radius=10" alt="Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&theme=radical&count_private=true&rank_icon=github&border_radius=10" alt="Stats" width="420"/>
 </div>
 
 <hr/>
 
 <h2 align="center">📬 Let's Connect 📬</h2>
 <div align="center">
-  <a href="https://profile-dya4e3w0b-densinghs-projects.vercel.app/" target="_blank">
+  <a href="[https://profile-dya4e3w0b-densinghs-projects.vercel.app/](https://dens-portfolio.vercel.app/)" target="_blank">
      <img src="https://img.shields.io/badge/My%20Projects-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://soumyajitblogs.vercel.app/" target="_blank">
+  <a href="[https://soumyajitblogs.vercel.app/](https://dens-portfolio.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/My%20Blogs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
-  <a href="mailto:ddensingh18@gmail.com">
+  <a href="mailto:ddensingh19@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </div>
