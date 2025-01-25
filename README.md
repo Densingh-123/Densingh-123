@@ -49,7 +49,11 @@
   <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&theme=radical&count_private=true&rank_icon=github&border_radius=10" alt="Stats" width="420"/>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Densingh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="Densingh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Densingh-123&&theme=tokyonight" alt="Densingh" /></p>
 <hr/>
 
 <h2 align="center">📬 Let's Connect 📬</h2>
