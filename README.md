@@ -56,9 +56,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="Densingh" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Densingh-123&&theme=tokyonight" alt="Densingh" />
-</p>
+
 <hr/>
 
 <h2 align="center">📬 Let's Connect 📬</h2>
