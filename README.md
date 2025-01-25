@@ -46,14 +46,19 @@
 <h2 align="center">📊 Dynamic Contributions 📊</h2>
 <br/>
 <div align="center">
-  <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&theme=radical&count_private=true&rank_icon=github&border_radius=10" alt="Stats" width="420"/>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Densingh" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Densingh" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="Densingh" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="Densingh" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Densingh-123&&theme=tokyonight" alt="Densingh" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Densingh-123&&theme=tokyonight" alt="Densingh" />
+</p>
 <hr/>
 
 <h2 align="center">📬 Let's Connect 📬</h2>
@@ -61,7 +66,6 @@
   <a href="https://dens-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
   <a href="mailto:ddensingh18@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
