@@ -11,7 +11,7 @@
 
 <div align="center">
   <p>🌟 Building applications to make ideas come to life!</p>
-  <p>🌱 Currently exploring <strong>Angular, Flask, Flutter, and React Native</strong></p>
+  <p>🌱 Currently exploring <strong>Angular, expo,FireBase, Flutter, and React Native</strong></p>
   <p>💬 Ask me about <strong>React, Next.js, GSAP, React Native, Flutter</strong></p>
   <p>⚡ Fun fact: I am both a good app and web developer!!</p>
 </div>
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,bootstrap,tailwind,js,ts,nodejs,express,firebase,mongodb,java,python,flask,git,github,docker,aws,figma,flutter,c,postman,androidstudio,eclipse,vscode,insomnia" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,bootstrap,tailwind,js,ts,nodejs,express,firebase,mongodb,java,python,git,github,docker,aws,figma,flutter,c,postman,androidstudio,eclipse,vscode,insomnia" alt="Skills" />
 </div>
 
 <hr/>
