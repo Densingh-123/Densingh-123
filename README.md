@@ -46,13 +46,14 @@
 <h2 align="center">📊 Dynamic Contributions 📊</h2>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  </div>
 </div>
 
 <hr/>
-
 
 <h2 align="center">📬 Let's Connect 📬</h2>
 <div align="center">
