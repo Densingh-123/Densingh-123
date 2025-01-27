@@ -66,6 +66,8 @@
   <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Densingh-123&" alt="ddensingh" /></p>
+
   </div>
 </div>
 
