@@ -11,10 +11,25 @@
 <br/>
 
 <div align="center">
-  <p>🌟 Building applications to make ideas come to life!</p>
-  <p>🌱 Currently exploring <strong>Angular, expo,FireBase, Flutter, and React Native</strong></p>
-  <p>💬 Ask me about <strong>React, Next.js, GSAP, React Native, Flutter</strong></p>
-  <p>⚡ Fun fact: I am both a good app and web developer!!</p>
+- 🔭 I’m currently working on **Building Applications**
+
+- 🌱 I’m currently learning **ReactNative,SpringBoot,Flutter**
+
+- 👯 I’m looking to collaborate on **Web and Mobile Applications**
+
+- 🤝 I’m looking for help with **Frontend Projects**
+
+- 👨‍💻 All of my projects are available at [https://dens-portfolio.vercel.app/](https://dens-portfolio.vercel.app/)
+
+- 📝 I regularly write articles on [https://dens-portfolio.vercel.app/](https://dens-portfolio.vercel.app/)
+
+- 💬 Ask me about **react,next,gsap,ReactNative**
+
+- 📫 How to reach me **ddensingh18@gmail.com**
+
+- 📄 Know about my experiences [https://dens-portfolio.vercel.app/](https://dens-portfolio.vercel.app/)
+
+- ⚡ Fun fact **I am a Good App and Web Developer**
 </div>
 
 <br/>
