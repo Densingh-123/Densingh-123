@@ -61,7 +61,7 @@
 <br/>
 
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; gap: 40px;">
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact" alt="ddensingh" /></p>
 
