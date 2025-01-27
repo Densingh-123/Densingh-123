@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Densingh!;+Welcome+to+My+Profile!" />
 </h1>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Densingh-123" alt="ddensingh" /></a> </p>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <br/>
