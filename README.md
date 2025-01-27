@@ -21,8 +21,6 @@
 
 - 👨‍💻 All of my projects are available at [https://dens-portfolio.vercel.app/](https://dens-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://dens-portfolio.vercel.app/](https://dens-portfolio.vercel.app/)
-
 - 💬 Ask me about **react,next,gsap,ReactNative**
 
 - 📫 How to reach me **ddensingh18@gmail.com**
@@ -63,9 +61,11 @@
 <br/>
 
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 40px;">
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact" alt="ddensingh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en" alt="ddensingh" /></p>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Densingh-123&" alt="ddensingh" /></p>
 
   </div>
