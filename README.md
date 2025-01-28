@@ -11,17 +11,16 @@
 <br/>
 
 <div align="center">
-<p>
-  🔭 I’m currently working on <strong>Building Applications</strong><br>
-  🌱 I’m currently learning <strong>ReactNative, SpringBoot, Flutter</strong><br>
-  👯 I’m looking to collaborate on <strong>Web and Mobile Applications</strong><br>
-  🤝 I’m looking for help with <strong>Frontend Projects</strong><br>
-  👨‍💻 All of my projects are available at <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a><br>
-  💬 Ask me about <strong>react, next, gsap, ReactNative</strong><br>
-  📫 How to reach me <strong>ddensingh18@gmail.com</strong><br>
-  📄 Know about my experiences <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a><br>
-  ⚡ Fun fact <strong>I am a Good App and Web Developer</strong>
-</p>
+<p>🔭 I’m currently working on <strong>Building Applications</strong></p>
+<p>🌱 I’m currently learning <strong>ReactNative, SpringBoot, Flutter</strong></p>
+<p>👯 I’m looking to collaborate on <strong>Web and Mobile Applications</strong></p>
+<p>🤝 I’m looking for help with <strong>Frontend Projects</strong></p>
+<p>👨‍💻 All of my projects are available at <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a></p>
+<p>💬 Ask me about <strong>react, next, gsap, ReactNative</strong></p>
+<p>📫 How to reach me <strong>ddensingh18@gmail.com</strong></p>
+<p>📄 Know about my experiences <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a></p>
+<p>⚡ Fun fact <strong>I am a Good App and Web Developer</strong></p>
+
 
 </div>
 
