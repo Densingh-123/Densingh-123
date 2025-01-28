@@ -11,23 +11,18 @@
 <br/>
 
 <div align="center">
-- 🔭 I’m currently working on **Building Applications**
+<p>
+  🔭 I’m currently working on <strong>Building Applications</strong><br>
+  🌱 I’m currently learning <strong>ReactNative, SpringBoot, Flutter</strong><br>
+  👯 I’m looking to collaborate on <strong>Web and Mobile Applications</strong><br>
+  🤝 I’m looking for help with <strong>Frontend Projects</strong><br>
+  👨‍💻 All of my projects are available at <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a><br>
+  💬 Ask me about <strong>react, next, gsap, ReactNative</strong><br>
+  📫 How to reach me <strong>ddensingh18@gmail.com</strong><br>
+  📄 Know about my experiences <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a><br>
+  ⚡ Fun fact <strong>I am a Good App and Web Developer</strong>
+</p>
 
-- 🌱 I’m currently learning **ReactNative,SpringBoot,Flutter**
-
-- 👯 I’m looking to collaborate on **Web and Mobile Applications**
-
-- 🤝 I’m looking for help with **Frontend Projects**
-
-- 👨‍💻 All of my projects are available at [https://dens-portfolio.vercel.app/](https://dens-portfolio.vercel.app/)
-
-- 💬 Ask me about **react,next,gsap,ReactNative**
-
-- 📫 How to reach me **ddensingh18@gmail.com**
-
-- 📄 Know about my experiences [https://dens-portfolio.vercel.app/](https://dens-portfolio.vercel.app/)
-
-- ⚡ Fun fact **I am a Good App and Web Developer**
 </div>
 
 <br/>
