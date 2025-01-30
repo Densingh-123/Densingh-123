@@ -57,10 +57,10 @@
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact" alt="ddensingh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact" alt="densingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en" alt="ddensingh" /></p>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Densingh-123&" alt="ddensingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en" alt="densingh" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Densingh-123&" alt="densingh" /></p>
 
   </div>
 </div>
