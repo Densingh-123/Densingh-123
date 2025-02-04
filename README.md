@@ -6,7 +6,7 @@
 </h1>
 <p align="left"> <a href="https://dens-portfolio.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=Densingh-123" alt="ddensingh.." /></a> </p>
 <p align="left"> <a href="https://dens-portfolio.vercel.app/" target="blank"><img src="https://img.shields.io/twitter/follow/densingh?logo=twitter&style=for-the-badge" alt="densingh" /></a> </p>
-<h3 align="center">A passionate frontend developer from India 🇮🇳.</h3>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <br/>
 
