@@ -43,7 +43,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️.</h2>
+<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,bootstrap,tailwind,js,ts,nodejs,express,firebase,mongodb,java,python,git,github,docker,aws,figma,flutter,c,postman,androidstudio,eclipse,vscode,insomnia" alt="Skills" />
