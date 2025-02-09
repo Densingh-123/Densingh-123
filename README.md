@@ -19,7 +19,7 @@
 <p>💬 Ask me about <strong>react, next, gsap, ReactNative</strong></p>
 <p>📫 How to reach me <strong>ddensingh18@gmail.com</strong></p>
 <p>📄 Know about my experiences <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a></p>
-<p>⚡ Fun fact <strong>I am a Good App and Web Developer.</strong></p>
+<p>⚡ Fun fact <strong>I am a Good App and Web Developer</strong></p>
 
 
 </div>
