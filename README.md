@@ -72,7 +72,7 @@
   <a href="https://dens-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:ddensingh18@gmail.com">
+  <a href="mailto:ddensingh19@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </div>
