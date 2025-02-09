@@ -59,7 +59,7 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densingh-123&show_icons=true&locale=en&layout=compact" alt="densingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en" alt="densingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Densingh-123&show_icons=true&locale=en" alt="densing" /></p>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Densingh-123&" alt="densing" /></p>
 
   </div>
