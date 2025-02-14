@@ -12,7 +12,7 @@
 
 <div align="center">
 <p>🔭 I’m currently working on <strong>Building Applications.</strong></p>
-<p>🌱 I’m currently learning <strong>ReactNative, SpringBoot, Flutter</strong></p>
+<p>🌱 I’m currently learning <strong>ReactNative, SpringBoot, Flutter.</strong></p>
 <p>👯 I’m looking to collaborate on <strong>Web and Mobile Applications</strong></p>
 <p>🤝 I’m looking for help with <strong>Frontend Projects</strong></p>
 <p>👨‍💻 All of my projects are available at <a href="https://dens-portfolio.vercel.app/" target="_blank">https://dens-portfolio.vercel.app/</a></p>
