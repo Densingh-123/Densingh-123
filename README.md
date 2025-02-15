@@ -51,7 +51,7 @@
 
 <hr/>
 
-<h2 align="center">📊 Dynamic Contributions 📊</h2>
+<h2 align="center">📊 Dynamic Contributions📊</h2>
 <br/>
 
 <div align="center">
