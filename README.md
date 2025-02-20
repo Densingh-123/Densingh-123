@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-<p>🔭 I’m currently working on <strong>Building Applications</strong></p>
+<p>🔭 I’m currently working on <strong>Building Applications.</strong></p>
 <p>🌱 I’m currently learning <strong>ReactNative, SpringBoot, Flutter.</strong></p>
 <p>👯 I’m looking to collaborate on <strong>Web and Mobile Applications.</strong></p>
 <p>🤝 I’m looking for help with <strong>Frontend Projects.</strong></p>
